@@ -1,0 +1,85 @@
+{
+    "category" : "placements",
+    "intents": 
+    [
+        {
+            "tag" : "Placements",
+            "samples": 
+            [
+                "What is average placement?",
+                "placement ratio among courses?",
+                "placement training",
+                "How many recuiters are there for placement?",
+                "average CTC",
+                "average package"
+            ]
+        },
+
+        {
+            "tag" : "Placement details",
+            "samples": 
+            [
+                "How placement training helps?",
+                "Where placement happens",
+                "What are different modes for placement?",
+                "How often company visits for placement?",
+                "Do we get industry visits before placement?",
+                "How does the placement take place?",
+                "How many modes of placement do you offer?"
+            ]
+        },
+
+        {
+            "tag" : "Placement average",
+            "samples": 
+            [
+                "average selection rate?",
+                "CTC average?",
+                "What is the average package offered?",
+                "What is the average number of company visits per year?",
+                "average male selection?",
+                "average female selection?",
+                "average tenure period offered?",
+                "average conversion rate from internship to jobs?"
+            ]
+        },
+
+        {
+            "tag" : "Placement minimum",
+            "samples": 
+            [
+                "minimum CTC offered",
+                "minimum package",
+                "minimum tenure offered",
+                "minimum number of companies visiting",
+                "minimum number of students placed?"
+            ]
+        },
+
+        {
+            "tag" : "Placement maximum",
+            "samples": 
+            [
+                "maximum CTC offered",
+                "maximum package offered",
+                "maximum tenure offered",
+                "maximum number of company visiting",
+                "maximum number of student placed?"
+            ]
+        },
+
+        {
+            "tag" : "Placement course",
+            "samples": 
+            [
+                "Which courses have higher placement ratio",
+                "Which course company prefers more during placement",
+                "What is average package for different courses",
+                "What is CTC for different courses?",
+                "How courses matter during placement",
+                "What are chances of placement if I choose less trending courses?",
+                "Does course affect placement package?"
+            ]
+        }
+    ]
+}

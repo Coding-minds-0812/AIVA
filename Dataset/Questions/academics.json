@@ -1,0 +1,37 @@
+{
+	"category": "Academics",
+	"intents": 
+	[
+		{
+			"tags": "academics",
+			"samples": 
+			[
+				"What are all programs ?",
+				"What is FFCS ?",
+				"How do time table works",
+				"What is calender schedule for this academic year ?",
+				"How many different course schools are there ?",
+				"Where is library located ?",
+				"What is engineering clinics ?",
+				"What are international collaborations ?",
+				"How to do semester abroad programs ?",
+				"What are different categories for engineering clinics ?"
+			]
+		},
+
+		{
+			"tags": "academic_details",
+			"samples": 
+			[
+				"Where to check my marks ?",
+				"Where to get my attandance sheet ?",
+				"What courses I am enrolled for ?",
+				"When the exams are going to be conducted ?",
+				"What is the minimum percentage required to sit in exam ?",
+				"Where to get study materials ?",
+				"What is my grade in previous semester ?",
+				"What is my grade including all semesters ?"
+			]
+		}
+	]
+}

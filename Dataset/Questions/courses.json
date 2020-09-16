@@ -1,0 +1,202 @@
+{
+    "category": "courses",
+    "intents":
+    [
+        {
+            "tag" : "Courses",
+            "samples":
+            [
+                "What courses do you offer?",
+                "What are the different courses available?",
+                "Courses offered?",
+                "How many courses do you offer?",
+                "What different courses are offered here?",
+                "What courses can I enroll?"
+            ]
+        },
+
+        {
+            "tag" : "BTech_courses",
+            "samples":
+            [
+                "What are the different specializations offered in Btech",
+                "BTech specilizations",
+                "Undergraduate specializations offered",
+                "What different areas of specialization in bachelor of technology is being offered?",
+                "What kind of specialisations are offered in bachelor of technology",
+                "What do you have to offer in B.Tech.",
+                "What are the different options available for B.Tech",
+                "B.Tech courses",
+                "What courses do you have for B.Tech.",
+                "Different options for BTech",
+                "Btech",
+                "Bachelor of technology"
+            ]
+        },
+
+        {
+            "tag" : "BTech_CSE",
+            "samples":
+            [
+                "BTech CSE?",
+                "specializations for btech CSE",
+                "options for btech cse",
+                "Bachelors in CSE?",
+                "CSE in BTech?",
+                "computers in BTech",
+                "Computer science BTech specilizations",
+                "Bachelor of technology, computer science",
+                "BTech computer science?",
+                "What is in store for BTech CSE?",
+                "Options for BTech CS",
+                "Btech in Computer science",
+                "Bachelor of technology, CSE",
+                "CSE BTech",
+                "tell me about btech cse?"
+            ]
+        },
+
+        {
+            "tag" : "BTech_ECE",
+            "samples":
+            [
+                "BTech ECE?",
+                "specializations for btech ECE",
+                "options for btech ECE",
+                "Bachelors in ECE?",
+                "bachelor of technology, ECE?",
+                "ECE in BTech?",
+                "electronics in BTech",
+                "ECE BTech specializations",
+                "Bachelor of technology, Electronics and communication engineering",
+                "What do you have to offer in BTech electronics & communication engineering?",
+                "What is in store for BTech ECE?",
+                "Options for BTech ECE",
+                "Btech in electronics & communication",
+                "Bachelor of technology, ECE",
+                "ECE Btech",
+                "tell me about btech ece"
+            ]
+        },
+
+        {
+            "tag" : "BTech_Mech",
+            "samples":
+            [
+                "BTech Mech?",
+                "specializations for btech mechanical engineering",
+                "options for btech mech",
+                "Bachelors in mechanical engg?",
+                "bachelor of technology, mechanical?",
+                "mechanical in BTech?",
+                "Mechanical engineering in BTech",
+                "Mech BTech specializations",
+                "Bachelor of technology, Mechanical engineering",
+                "What do you have to offer in BTech mech engineering?",
+                "What is in store for BTech Mech?",
+                "Options for BTech mechanical",
+                "Btech in mechanical engineering",
+                "Bachelor of technology, Mechanical",
+                "mechanical btech"
+            ]
+        },
+
+        {
+            "tag" : "MTech_courses",
+            "samples":
+            [
+                "What are the different specializations offered in Mtech",
+                "MTech specilizations",
+                "Masters specializations offered",
+                "What different areas of specialization in master of technology is being offered?",
+                "What kind of specialisations are offered in masters of technology",
+                "What do you have to offer in M.Tech.",
+                "What are the different options available for M.Tech",
+                "M.Tech courses",
+                "What courses do you have for M.Tech.",
+                "Different options for MTech"
+            ]
+        },
+
+        {
+            "tag" : "Mtech_int",
+            "samples":
+            [
+                "Tell me about integrated MTech",
+                "Elaborate on Integrated MTech",
+                "What is integrated Mtech",
+                "Integrated MTech",
+                "Mtech Integrated",
+                "Information on integrated mtech",
+                "Mtech integrated course",
+                "eligibilty for integrated mtech"
+            ]
+        },
+
+        {
+            "tag" : "Mtech",
+            "samples":
+            [
+                "Tell me about MTech ECE",
+                "Elaborate on MTech ECE(VLSI)",
+                "Mtech ECE",
+                "What is Mtech ECE (VLSI)",
+                "MTech ECE duration",
+                "Mtech Integrated",
+                "Information on mtech VLSI",
+                "Mtech ECE course",
+                "eligibilty for mtech ECE"
+            ]
+        },
+
+        {
+            "tag" : "BBA",
+            "samples":
+            [
+                "Tell me about BBA",
+                "Elaborate on BBA",
+                "BBA",
+                "What is BBA",
+                "BBA duration",
+                "BBA",
+                "Information on BBA",
+                "BBA course",
+                "eligibilty for BBA"
+            ]
+        },
+
+        {
+            "tag": "Fees",
+            "samples":
+            [
+                "Tell me about the fee structure",
+                "Fees",
+                "get me the fee structure of BBA",
+                "what about the fees?",
+                "What is the fee stucture of BTech?",
+                "Fees Mtech Integrated",
+                "Btech Fees",
+                "BBA Fees",
+                "Mtech ECE fee structure",
+                "how much fees for BTech computer science?",
+                "Fees for one year of BTech"
+            ]
+        },
+
+        {
+            "tag" : "Admissions",
+            "samples": 
+            [
+                "How to enroll into Btech",
+                "Admission procedure",
+                "How to apply?",
+                "How to join integrated Mtech",
+                "How to enroll into BBA course?",
+                "Enroll into Btech CSE",
+                "UG Applications",
+                "Where should I apply?",
+                "Where do I need to enroll?"
+            ]
+        }
+    ]
+}

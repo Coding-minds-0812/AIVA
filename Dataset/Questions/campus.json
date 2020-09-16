@@ -1,0 +1,25 @@
+{
+    "category": "campus",
+    "intents":
+    [
+        {
+            "tag": "clubs & chapters",
+            "samples":
+            [
+                "What clubs do you have?",
+                "Do you have clubs in your campus?",
+                "Tell me about the different clubs and chapters available",
+                "What clubs are available",
+                "available clubs and chapters"
+            ]
+        },
+
+        {
+            "tag": "sports",
+            "samples":
+            [
+                
+            ]
+        }
+    ]
+}

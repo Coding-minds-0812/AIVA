@@ -1,0 +1,35 @@
+{
+    "category" : "about us",
+    "intents":
+    [
+        {
+            "tag": "contact",
+            "samples":
+            [
+                "Give me your contact details",
+                "How do I get in touch",
+                "Get into touch",
+                "Contact details",
+                "Phone number",
+                "Give me your phone number",
+                "Can I mail you?",
+                "What is your email address?",
+                "Where do I contact you?"
+            ]
+        },
+
+        {
+            "tag": "reach VIT",
+            "samples": 
+            [
+                "How do I reach the college?",
+                "How do I get to the university?",
+                "How far is the campus from the city?",
+                "Is the college easily accessible?",
+                "transportation facility for the university?",
+                "How to come to the campus?",
+                "where is the college located?"
+            ]
+        }
+    ]
+}

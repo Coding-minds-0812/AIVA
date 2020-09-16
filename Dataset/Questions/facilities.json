@@ -1,0 +1,132 @@
+{
+    "category": "facilities",
+    "intents":
+    [
+        {
+            "tag": "facilities",
+            "samples": 
+            [
+                "what facilities do you provide?",
+                "different facilities",
+                "facilities",
+                "what facilities are available?",
+                "available facilities",
+                "what facilities do you promise?"
+            ]
+        },
+
+        {
+            "tag": "labs",
+            "samples":
+            [
+                "What labs do you have?",
+                "do you have laboratories?",
+                "different labs available",
+                "what different labs you have?",
+                "What items do you have in your labs?",
+                "do you have a mechanical lab?",
+                "equipments in materials engineering lab",
+                "how many computers do you have?",
+                "What kind of computers do you have?",
+                "Computer laboratory",
+                "number of labs"
+            ]
+        },
+
+        {
+            "tag": "cafeteria",
+            "samples":
+            [
+                "do you have cafeteria?",
+                "How many cafeterias are there?",
+                "canteens",
+                "different cafeteria",
+                "number of canteens",
+                "tell me about the cafeteria",
+                "do you have a food court?",
+                "food courts",
+                "canteen",
+                "information on canteen"
+            ]
+        },
+
+        {
+            "tag": "library",
+            "samples":
+            [
+                "do you have a library?",
+                "how many libraries are there?",
+                "what books are available in the library",
+                "is the library big?",
+                "how large is the library?",
+                "what different books are available in the library",
+                "tell me about the libraries",
+                "how well are the libraries maintained"
+            ]
+        },
+
+        {
+            "tag": "Gym",
+            "samples": 
+            [
+                "do you have a gym",
+                "tell me about gymnasium",
+                "What equipments do you have in the gym",
+                "How many gyms do you have?",
+                "Do you have a trainer for the gym?",
+                "Where is the gym located?",
+                "How many equipments do the gyms have?",
+                "information on GYM"
+            ]
+        },
+
+        {
+            "tag": "Sports",
+            "samples": 
+            [
+                "What sports facilities do you have?",
+                "tell me about sports",
+                "different sports",
+                "what are the different sports activites?",
+                "Do you have sports competitions?",
+                "Do you have specilized trainers for sports?",
+                "How many different types of sports do you play?",
+                "information on Sports"
+            ]
+        },
+
+        {
+            "tag": "bank",
+            "samples": 
+            [
+                "do you have banking facility?",
+                "do you have ATM?",
+                "is there an ATM?",
+                "Is there a bank inside the campus?",
+                "information on banks and ATM",
+                "will I have ATM facility in campus?",
+                "banking facility",
+                "bank",
+                "ATM"
+            ]
+        },
+
+        {
+            "tag": "Health center",
+            "samples": 
+            [
+                "do you have an hospital?",
+                "health care",
+                "do you have an health center?",
+                "Do you have an ambulance?",
+                "have you got a health center",
+                "health center",
+                "health facilities",
+                "ambulance",
+                "how many beds do you have in the health centers?",
+                "medical needs?",
+                "Do you have medical facility"
+            ]
+        }
+    ]
+}
