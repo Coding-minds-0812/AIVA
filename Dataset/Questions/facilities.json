@@ -11,7 +11,8 @@
                 "facilities",
                 "what facilities are available?",
                 "available facilities",
-                "what facilities do you promise?"
+                "what facilities do you promise?",
+                "What are the facilities available at VITAP?"
             ]
         },
 
@@ -30,6 +31,21 @@
                 "What kind of computers do you have?",
                 "Computer laboratory",
                 "number of labs"
+            ]
+        },
+
+        {
+            "tag": "retail shop",
+            "samples":
+            [
+                "retail shop",
+                "shops",
+                "do you have retail shops?",
+                "do you have shops for purchasing necessary items?",
+                "Have you got shops in hostels?",
+                "Do you have retail shops in the campus?",
+                "Have you got any shops in the university?",
+                "Do you have shops inside the campus?"
             ]
         },
 
@@ -126,6 +142,49 @@
                 "how many beds do you have in the health centers?",
                 "medical needs?",
                 "Do you have medical facility"
+            ]
+        },
+
+        {
+            "tag": "infrastructure",
+            "samples": 
+            [
+                "infrastructure",
+                "how well is vitap in terms of infrastructure?",
+                "how good is your infrastructure",
+                "How are the classrooms in vitap?",
+                "what kind of classrooms do you have?",
+                "What kind of infrastructure can I expect?"
+            ]
+        },
+
+        {
+            "tag": "AC",
+            "samples": 
+            [
+                "Do you have air conditioned class rooms?",
+                "AC",
+                "air conditioned",
+                "A.C",
+                "Do the class rooms have AC?",
+                "Are the labs air conditioned?",
+                "Do the labs have AC?",
+                "Do you have air conditioned labs?"
+            ]
+        },
+
+        {
+            "tag": "WI-FI",
+            "samples":
+            [
+                "What about the wifi in campus?",
+                "Do you have wifi facility?",
+                "how good is the wifi in vitap?",
+                "What kind of wifi do you have?",
+                "Internet facility",
+                "Have you got wifi in campus?",
+                "Are students allowed to use wifi?",
+                "Wifi availability for students"
             ]
         }
     ]

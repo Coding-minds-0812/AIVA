@@ -6,6 +6,7 @@
             "tag": "clubs & chapters",
             "samples":
             [
+                "clubs",
                 "What clubs do you have?",
                 "Do you have clubs in your campus?",
                 "Tell me about the different clubs and chapters available",
@@ -15,10 +16,95 @@
         },
 
         {
-            "tag": "sports",
-            "samples":
+            "tag": "security",
+            "samples": 
             [
-                
+                "Is vit ap a secure campus?",
+                "how good is the security here",
+                "How many security guards do you have?",
+                "What kind of security is provided?",
+                "Are the hostels protected?",
+                "how is the protection in the campus",
+                "is the college protected?",
+                "security",
+                "protection"
+            ]
+        },
+
+        {
+            "tag": "comparision",
+            "samples": 
+            [
+                "When was the campus established?",
+                "when was vit ap established?",
+                "differences between the other campuses",
+                "how is vit ap different from vellore or chennai or bhopal",
+                "how good is vit ap compared to vellore?",
+                "how good is this college compared to the other branches?",
+                "is there any difference between this campus and the vellore campus?",
+                "differences",
+                "how good is this campus compared to the main campus",
+                "do you work differently from the main branches?",
+                "how are you different from the other campuses of vit",
+                "are the rules different here?",
+                "will there be any difference during the placement time?",
+                "is the placement same for vellore and ap",
+                "how different is the placement here?",
+                "will the exams be conducted in the same way for all the campuses?",
+                "are the rules same for all the campuses?"
+            ]
+        },
+
+        {
+            "tag": "tieups",
+            "samples": 
+            [
+                "do you have international tieups",
+                "what tie ups do you have with internation colleges",
+                "do you have tie ups with US colleges",
+                "what are the international tie-ups of vit ap",
+                "vit ap tieups",
+                "international tie-ups",
+                "international college tie ups",
+                "tie ups with internation colleges",
+                "how many international tie-ups do you have?",
+                "What colleges are you tied up with?",
+                "What are your international contacts?",
+                "tell me about your tie ups",
+                "information regarding the international tie-ups",
+                "info about tieups"
+            ]
+        },
+
+        {
+            "tag": "faculty",
+            "samples": 
+            [
+                "qualification",
+                "How qualified are the faculty at vitap?",
+                "how is the faculty here?",
+                "minimum qualification of faculty",
+                "are all the faculty phd?",
+                "do the professors have phd?",
+                "how qualified are the professors here?",
+                "professors qualification",
+                "how good are the professors?"
+            ]
+        },
+
+        {
+            "tag": "ragging",
+            "samples": 
+            [
+                "ragging",
+                "do you have ragging in your campus?",
+                "is ragging prohibitted?",
+                "Is vitap a ragging free campus?",
+                "how about ragging?",
+                "Does ragging take place inside hostels?",
+                "Is ragging a thing in the campus?",
+                "How controlled is the ragging in vitap?",
+                "does ragging exist in campus?"
             ]
         }
     ]

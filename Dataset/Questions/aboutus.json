@@ -28,7 +28,30 @@
                 "Is the college easily accessible?",
                 "transportation facility for the university?",
                 "How to come to the campus?",
-                "where is the college located?"
+                "where is the college located?",
+                "How far is VIT AP from Vijayawada?",
+                "How far is vit ap from guntur",
+                "How to reach vit ap",
+                "What are the means of commute from the college?",
+                "Where is the college located?",
+                "location of VIT AP",
+                "where is vit ap located?",
+                "location of the campus"
+            ]
+        },
+
+        {
+            "tag": "culture",
+            "samples": 
+            [
+                "how is the culture in vit ap",
+                "how diverse is the culture here",
+                "do people from north join here",
+                "what is the average north to south ratio",
+                "is there unity in diversity",
+                "is the campus dominated by telugus",
+                "what kind of a cultural atmosphere can i expect here",
+                "tell me about the culture vitap"
             ]
         }
     ]

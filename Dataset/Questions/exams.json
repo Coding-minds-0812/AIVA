@@ -1,0 +1,73 @@
+{
+    "category" : "exams",
+    "intents":
+    [
+        {
+            "tag": "exams gen",
+            "samples": 
+            [
+                "How are the exams conducted here?",
+                "How do you conduct exams?",
+                "How many exams do you conduct",
+                "exams",
+                "examinations",
+                "Tell me about examinations",
+                "How many examinations do I have to give per semester?",
+                "how many exams per sem?",
+                "Do you conduct exams every week?",
+                "What difficulty level are the exams conducted in?",
+                "How frequently are the exams conducted?"
+            ]
+        },
+
+        {
+            "tag": "exams fail",
+            "samples": 
+            [
+                "What happens if I fail in my exams?",
+                "Can i write an improvement exam?",
+                "how many arrears are allowed?",
+                "What happens if I have arrears in the end?",
+                "Do i get degree with backlogs?",
+                "backlogs",
+                "arrears",
+                "fail in exams",
+                "will failing in exam affect my CGPA?"
+            ]
+        },
+
+        {
+            "tag": "attendance criteria",
+            "samples": 
+            [
+                "How much attendance is required to appear for the exams",
+                "attendance",
+                "What is the minimum attendance percentage required for attending exams?",
+                "can i write exams with 0 attendance?",
+                "does the attendance matter?",
+                "Is there a minimum attendance for writing exams?",
+                "What attendance is required to write exams?",
+                "Is attendance required for exams?"
+            ]
+        },
+
+        {
+            "tag": "reevaluation",
+            "samples": 
+            [
+                "how to get my answers rechecked?",
+                "What is the reevaluation procedure?",
+                "rechecking",
+                "reevaluation",
+                "Is there a facility to get my papers rechecked?",
+                "How do I get my papers rechecked?",
+                "Tell me about the reevaluation procedure",
+                "Can i get my answers reevaluated?",
+                "How do i get my answers reevaluated?",
+                "How should i apply for reevaluation?",
+                "How does reevaluation work?",
+                "What is the criteria for rechecking?"
+            ]
+        }
+    ]
+}

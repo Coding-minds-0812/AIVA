@@ -129,7 +129,24 @@
                 "Mtech Integrated",
                 "Information on integrated mtech",
                 "Mtech integrated course",
-                "eligibilty for integrated mtech"
+                "eligibilty for integrated mtech",
+                "mtech int.",
+                "int. mtech"
+            ]
+        },
+
+        {
+            "tag": "Mtech_v_BTech",
+            "samples": 
+            [
+                "what is the difference between integrated mtech and btech",
+                "how is the 5 year course different from btech",
+                "in what ways in int. mtech different from btech?",
+                "integrated mtech vs btech cse",
+                "what are the differences between integrated mtech and btech",
+                "mtech integrated vs btech",
+                "btech vs integrated mtech",
+                "differences between btech and int. mtech"
             ]
         },
 
@@ -196,6 +213,47 @@
                 "UG Applications",
                 "Where should I apply?",
                 "Where do I need to enroll?"
+            ]
+        },
+
+        {
+            "tag": "SAP",
+            "samples": 
+            [
+                "What is this SAP",
+                "What is the semester abroad programme about?",
+                "How does the semester abroad program work?",
+                "Who is eligible for SAP?",
+                "What is the eligibility criteria for SAP",
+                "SAP",
+                "Semester abroad program",
+                "Tell me about SAP",
+                "information about SAP",
+                "What is SAP about?",
+                "tell me about the semester abroad programme",
+                "info regarding the semester abroad programme"
+            ]
+        },
+
+        {
+            "tag": "credit-system",
+            "samples":
+            [
+                "What are credits?",
+                "Tell me about the credit system",
+                "What is a credit for a subject?",
+                "What is meant by credits?",
+                "credits",
+                "credit system",
+                "how are credits calculated?",
+                "FFCS",
+                "Tell me about ffcs",
+                "how does ffcs work?",
+                "What is ffcs?",
+                "info on ffcs",
+                "information regarding the credit system",
+                "information regarding FFCS",
+                "what does ffcs mean?"
             ]
         }
     ]

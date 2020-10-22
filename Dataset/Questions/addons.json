@@ -1,0 +1,103 @@
+{
+    "category": "addons",
+    "intents":
+    [
+        {
+            "tag": "Engineering clinics",
+            "samples":
+            [
+                "Tell me about engg clinics",
+                "engineering clinics",
+                "engg clinics",
+                "What is this engineering clinics?",
+                "Information about engineering clinics",
+                "What is the engg clinics all about?",
+                "How does the engg clinics work?",
+                "Is engineering clinics compulsory?",
+                "Tell me about the engineering clinics",
+                "What kind of an event is engineering clinic?",
+                "Do the students have to participate in engineering clinics?",
+                "What is the advantage of engineering clinics?"
+            ]
+        },
+
+        {
+            "tag": "mentor",
+            "samples": 
+            [
+                "Who is the mentor?",
+                "Tell me about the mentor",
+                "Why do i have a mentor",
+                "What does my mentor do?",
+                "What will be my first point of contact for any problem?",
+                "Whom do i contact for solving my problems?",
+                "Will my mentor be able to solve my problems?",
+                "What is a mentor?",
+                "mentor"
+            ]
+        },
+
+        {
+            "tag": "Research",
+            "samples": 
+            [
+                "Do you provide research assistantship",
+                "Research at VITAP",
+                "research",
+                "research opportunities",
+                "how good is the research here?",
+                "does the university conduct researches",
+                "How is research assistantship here?",
+                "What are the research opportunities i have in vit ap?"
+            ]
+        },
+
+        {
+            "tag": "fests",
+            "samples": 
+            [
+                "What are the fests conducted here?",
+                "Do you conduct fests?",
+                "What extracurricular events you have?",
+                "fests",
+                "Fests in vit ap",
+                "Do you conduct fests?",
+                "Tell me about the college fest",
+                "Information on fests you conduct",
+                "College fest"
+            ]
+        },
+
+        {
+            "tag": "PR",
+            "samples": 
+            [
+                "PR",
+                "program representative",
+                "What is a program representative",
+                "Who is a PR",
+                "What is the role of a PR",
+                "What do you mean by a program representative",
+                "Tell me about program representatives",
+                "Who are PRs",
+                "What is needed to be a PR",
+                "What is PR",
+                "Do program representatives have any benefit"
+            ]
+        },
+
+        {
+            "tag": "Internships",
+            "samples": 
+            [
+                "Does the college provide internships",
+                "How about internships in vitap",
+                "Do the students get internships",
+                "internships",
+                "how do I get an internship from college",
+                "what kind of internships do you provide?",
+                "vitap internships"
+            ]
+        }
+    ]
+}
